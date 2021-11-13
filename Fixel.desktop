@@ -1,7 +1,9 @@
 [Desktop Entry]
 Name=Fixel
 Exec=qmlscene $@ Main.qml
-Icon=Fixel.png
+Icon=img/Fixel.svg
+X-Ubuntu-Splash-Color=#181818
+X-Ubuntu-Splash-Image=Fixel.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true

@@ -91,7 +91,7 @@ PageStack {
                     anchors.margins: units.gu(2)
                     anchors.fill: parent
                     anchors.centerIn: parent
-                    text: i18n.tr("<html><b>Note : </b>Disable screensaver before start the process.</html>")
+                    text: i18n.tr("<html><b>Note: </b>Disable the screensaver before starting.</html>")
                     color: "#31708f"
                     wrapMode: TextEdit.WordWrap
                     verticalAlignment: Text.AlignVCenter
@@ -116,7 +116,7 @@ PageStack {
                     anchors.margins: units.gu(2)
                     anchors.fill: parent
                     anchors.centerIn: parent
-                    text: i18n.tr("<html><b>Warning : </b>Do not look at the screen during the process.</html>")
+                    text: i18n.tr("<html><b>DO NOT STARE AT THE SCREEN!</b></html>")
                     color: "#8a6d3b"
                     wrapMode: TextEdit.WordWrap
                     verticalAlignment: Text.AlignVCenter

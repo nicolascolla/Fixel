@@ -1,6 +1,6 @@
 {
-    "name": "fixelapp.inglebard",
-    "description": "Fixel is a simple Ubuntu phone QML app which tries to repair stuck pixels !",
+    "name": "fixel.collaproductions",
+    "description": "Fix a stuck pixel",
     "architecture": "all",
     "title": "Fixel",
     "hooks": {
@@ -10,6 +10,6 @@
         }
     },
     "version": "1.1",
-    "maintainer": "David 'Inglebard' RICQ <davidricq87@orange.fr>",
-    "framework": "ubuntu-sdk-14.04-html"
+    "maintainer": "Nicolás Colla <nicolascolla@mail.ru>",
+    "framework": "ubuntu-sdk-16.04.5"
 }

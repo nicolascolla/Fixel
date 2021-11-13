@@ -49,7 +49,7 @@ Page {
                     id: description_text
 
                     width: parent.width - units.gu(2)
-                    text: i18n.tr("Repair your stuck pixels !!")
+                    text: i18n.tr("Fix a stuck pixel!")
                     anchors.horizontalCenter: parent.horizontalCenter
                     wrapMode: Text.WordWrap
                     horizontalAlignment:  Text.AlignHCenter
@@ -59,7 +59,7 @@ Page {
                     id: website
 
                     width: parent.width - units.gu(2)
-                    text: i18n.tr("Website and support: ") + "<a href='https://github.com/Inglebard/Fixel'>Fixel</a>"
+                    text: i18n.tr("Website and support: ") + "<a href='https://github.com/nicolascolla/Fixel/'>Fixel</a>"
                     wrapMode: Text.WordWrap
                     horizontalAlignment:  Text.AlignHCenter
                     onLinkActivated: Qt.openUrlExternally(link)

@@ -17,7 +17,7 @@ Window {
     MainView {
         objectName: "mainView"
         id: mainView
-        applicationName: "fixelapp.inglebard"
+        applicationName: "fixel.collaproductions"
         automaticOrientation: true
         useDeprecatedToolbar: false
         anchors.fill: parent
