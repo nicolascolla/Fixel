@@ -8,14 +8,12 @@ msgstr ""
 "Project-Id-Version: Fixel 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-06-06 15:17+0200\n"
-"PO-Revision-Date: 2015-06-06 15:19+0100\n"
-"Last-Translator: David 'Inglebard' RICQ <davidricq87@orange.fr>\n"
-"Language-Team: Inglebard <davidricq87@orange.fr>\n"
+"PO-Revision-Date: 2021-12-20 17:13+0100\n"
+"Last-Translator: Anne017\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
 
 #: qml/Components/AccordionColorDuration.qml:10
 msgid "Color: "
@@ -31,7 +29,7 @@ msgstr "ms"
 
 #: qml/Components/AccordionColorDuration.qml:18
 msgid "Color screen"
-msgstr "Écran de couleur"
+msgstr "Couleur de l'écran"
 
 #: qml/Components/ColorDuration.qml:29 qml/Page/SettingPage.qml:111
 msgid "Color:"
@@ -39,7 +37,7 @@ msgstr "Couleur :"
 
 #: qml/Components/ColorDuration.qml:44 qml/Page/SettingPage.qml:126
 msgid "ex: #AA00BB"
-msgstr "ex: #AA00BB"
+msgstr "ex : #AA00BB"
 
 #: qml/Components/ColorDuration.qml:58 qml/Page/SettingPage.qml:200
 msgid "Duration:"
@@ -47,7 +45,7 @@ msgstr "Durée :"
 
 #: qml/Components/ColorDuration.qml:73 qml/Page/SettingPage.qml:214
 msgid "ex: 100(ms)"
-msgstr "ex: 100(ms)"
+msgstr "ex : 100 (ms)"
 
 #: qml/Components/ColorDuration.qml:87
 msgid "Delete"
@@ -59,11 +57,11 @@ msgstr "Paramètres"
 
 #: qml/Page/SettingPage.qml:90
 msgid "Checker screen"
-msgstr "Ecran de vérification"
+msgstr "Écran de vérification"
 
 #: qml/Page/SettingPage.qml:176
 msgid "Fixer screen"
-msgstr "Ecran réparateur"
+msgstr "Écran de réparation"
 
 #: qml/Page/SettingPage.qml:224
 msgid "Fixer colors"
@@ -71,7 +69,7 @@ msgstr "Couleurs de réparation"
 
 #: qml/Page/SettingPage.qml:249
 msgid "Add new"
-msgstr "Ajouter"
+msgstr "Ajouter un nouveau"
 
 #: qml/Page/SettingPage.qml:296
 msgid "Save"
@@ -83,11 +81,11 @@ msgstr "À propos de Fixel"
 
 #: qml/Page/AboutPage.qml:52
 msgid "Repair your stuck pixels !!"
-msgstr "Réparer les pixels bloqués !!"
+msgstr "Réparez vos pixels bloqués !!!"
 
 #: qml/Page/AboutPage.qml:62
 msgid "Website and support: "
-msgstr "Site web et support : "
+msgstr "Site internet et aide : "
 
 #: qml/Page/AboutPage.qml:72
 msgid "License: "
@@ -99,7 +97,7 @@ msgstr "Fixel"
 
 #: qml/Page/MainPage.qml:26
 msgid "Info"
-msgstr "Info"
+msgstr "Informations"
 
 #: qml/Page/MainPage.qml:44
 msgid "Start"
@@ -113,14 +111,13 @@ msgstr "Vérifier"
 msgid ""
 "<html><b>Note : </b>Disable screensaver before start the process.</html>"
 msgstr ""
-"<html><b>Note : </b>Désactiver la mise en veille avant de commencer.</html>"
+"<html><b>Note : </b>Désactivez la mise en veille avant de commencer.</html>"
 
 #: qml/Page/MainPage.qml:119
 msgid ""
 "<html><b>Warning : </b>Do not look at the screen during the process.</html>"
 msgstr ""
-"<html><b>Attention : </b>Ne pas rester à regarder l'écran une fois démarré</"
-"html>"
+"<html><b>Attention : </b>Ne pas regarder l'écran une fois démarré.</html>"
 
 #~ msgid "Checker Color:"
 #~ msgstr "Couleur de vérification"
